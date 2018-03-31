@@ -12,7 +12,7 @@ public class HelloControllerTest {
 		
 		  assertEquals("zzz.txt", "zzz.txt");
 		  assertEquals("new.txt", "new.txt");
-		
+		  assertEquals("new1.txt", "new1.txt");
 //		standaloneSetup(new HelloController()).build()
 //			.perform(get("/hello/seshu"))
 //			.andExpect(status().isOk());
