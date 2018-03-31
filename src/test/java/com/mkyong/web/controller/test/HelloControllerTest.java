@@ -11,6 +11,7 @@ public class HelloControllerTest {
 	public void helloTest() throws Exception {
 		
 		  assertEquals("zzz.txt", "zzz.txt");
+		  assertEquals("new.txt", "new.txt");
 		
 //		standaloneSetup(new HelloController()).build()
 //			.perform(get("/hello/seshu"))
